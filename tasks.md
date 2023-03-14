@@ -1,6 +1,6 @@
 ## Задача 1.   
 ### Дублируем login и password  
-Создать форму, потльзователь вводит login и password. При нажатии на кнопку Войти поля формы очищаются, а введенное содержимое отображается под формой.  
+Создать форму, пользователь вводит login и password. При нажатии на кнопку Войти поля формы очищаются, а введенное содержимое отображается под формой.  
 ![image](https://user-images.githubusercontent.com/113675674/224980740-8c7a8104-d2cf-4862-9bdf-95537880d8cb.png)  
 ![image](https://user-images.githubusercontent.com/113675674/224980868-e6f84f6e-1567-45c5-b814-8679d942801a.png)  
 ![image](https://user-images.githubusercontent.com/113675674/224980937-1214f9c7-9383-4294-acd6-0360208c8f8c.png)  
