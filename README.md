@@ -16,3 +16,6 @@
 Значения элементов формы доступны через `input.value`, `textarea.value`, `select.value` и т.д. либо `input.checked` для чекбоксов и переключателей.  
 
 Для элемента `<select>` мы также можем получить индекс выбранного пункта через `select.selectedIndex`, либо используя коллекцию пунктов `select.options`.  
+
+#  [Спецификация ](https://html.spec.whatwg.org/multipage/forms.html)  
+
