@@ -26,7 +26,7 @@
 
 При нажатии на кнопку **Очистить** поля формы должны быть очищены.  
 
-### HTML и CSS взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Properties_and_Methods/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_1)   
+### HTML и CSS взять [ОТСЮДА](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Properties_and_Methods/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_2)   
 
 **_Шаги выполнения задачи:_**
 
