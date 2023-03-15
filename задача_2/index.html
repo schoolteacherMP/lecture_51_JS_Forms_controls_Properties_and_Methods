@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form id="myForm">
+      <label for="nameInput">Имя:</label>
+      <input type="text" id="nameInput" name="name" required />
+      <br />
+      <label for="ageInput">Возраст:</label>
+      <input type="number" id="ageInput" name="age" min="0" required />
+      <br />
+      <div>
+        <label>Пол:</label>
+        <label for="maleRadio">Мужской</label>
+        <input
+          type="radio"
+          id="maleRadio"
+          name="gender"
+          value="male"
+          required
+        />
+        <label for="femaleRadio">Женский</label>
+        <input
+          type="radio"
+          id="femaleRadio"
+          name="gender"
+          value="female"
+          required
+        />
+      </div>
+
+      <br />
+      <div>
+        <label for="citySelect">Город проживания:</label>
+        <select id="citySelect" name="city">
+          <option value="">Выберите город</option>
+          <option value="Batumi">Батуми</option>
+          <option value="Tbilisi">Тбилиси</option>
+          <option value="Kutaisi">Кутаиси</option>
+        </select>
+      </div>
+
+      <br />
+      <div>
+        <button type="button" id="clearBtn">Очистить</button>
+        <button type="submit" id="submitBtn">Отправить</button>
+      </div>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
