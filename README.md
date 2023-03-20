@@ -1,6 +1,6 @@
-# lecture_52_JS_Forms_controls_Properties_and_Methods  
+# lecture_51_JS_Forms_controls_Properties_and_Methods  
 
-#  [Задачи ](https://github.com/schoolteacherMP/lecture_52_JS_Forms_controls_Properties_and_Methods/blob/main/tasks.md)  
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_51_JS_Forms_controls_Properties_and_Methods/blob/main/tasks.md)  
 
 Свойства для навигации по формам:  
 
