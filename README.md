@@ -19,4 +19,3 @@
 Для элемента `<select>` мы также можем получить индекс выбранного пункта через `select.selectedIndex`, либо используя коллекцию пунктов `select.options`.  
 
 #  [Спецификация ](https://html.spec.whatwg.org/multipage/forms.html)  
-
